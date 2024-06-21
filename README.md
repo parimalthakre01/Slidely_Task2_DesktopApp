@@ -27,3 +27,7 @@ cd SlidelyAI_Task2_DesktopApp
 2. Navigate through submissions using "Previous" and "Next" buttons.
 3. Click "Edit Submission" to enable editing of the read-only fields.
 
+<h3>Run</h3>
+Run the desktop app:
+1. In Visual Studio, set the project as the startup project.\n
+2. Press F5 or click on the "Start" button to run the application.
