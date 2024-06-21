@@ -12,7 +12,7 @@
 3. Git
 
 <h3>Clone the repository</h3>
-git clone https://github.com/your-username/SlidelyAI_Task2_DesktopApp.git
+git clone https://github.com/parimalthakre01/SlidelyAI_Task2_DesktopApp.git
 <h3>Get to the directory</h3>
 cd SlidelyAI_Task2_DesktopApp
 
